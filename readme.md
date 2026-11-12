@@ -1,5 +1,5 @@
-#These are my notes
+# These are my notes
 
 
-###Table Of  contents
--[Trouble Shooting Modalities](./deployment.md)
+### Table Of  contents
+ -[Trouble Shooting Modalities](./deployment.md)
