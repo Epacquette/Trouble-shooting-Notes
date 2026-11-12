@@ -2,4 +2,4 @@
 
 
 ### Table Of  contents
- -[Trouble Shooting Modalities](./deployment.md)
+- [Trouble Shooting Modalities](./deployment.md)
